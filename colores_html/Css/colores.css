@@ -1,0 +1,47 @@
+body {
+    background-color:#E99696;
+    
+}
+
+h1{
+    font-size:48px;
+    text-shadow: 1px 5px 3px teal;
+    
+}
+
+
+h2 {
+    text-shadow: 10px 2px 3px green;
+    letter-spacing:3px;
+}
+
+li {
+    color:#3BE542;
+    background-color:#2E7F7D;
+    margin:10px;
+}
+
+li:hover {
+    
+    color:aqua;
+}
+
+div {
+    width:300px;
+    
+    
+}
+
+input {
+    
+    width:200px;
+    height:100px;
+    
+}
+
+
+.paleta , div li{
+    
+    transform:translatex(400px);
+    text-align:center;
+}

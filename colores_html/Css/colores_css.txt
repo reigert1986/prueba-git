@@ -1,0 +1,16 @@
+aqua
+red 
+orange
+yellow
+olive
+purple
+fuchsia
+white
+lime
+green
+navy
+blue
+teal
+black
+silver
+gray
