@@ -22,7 +22,9 @@
  document.write(cadena[6]+ "<br>");
  */ 
 
-const p = document.querySelector(".nose");
+//const p = document.querySelector(".nose");
 
-document.write(p.style.color = "blue");
+//document.write(p.style.color = "blue");
+
+/* PROBANDO CAMBIOS DE GITHUB*/
 
